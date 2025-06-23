@@ -1,7 +1,6 @@
-streamlit
-praw
-sentence-transformers
-transformers
-faiss-cpu
-torch
-requests
+streamlit==1.35.0
+praw==7.7.1
+sentence-transformers==2.7.0
+transformers==4.41.2
+torch==2.3.0
+faiss-cpu==1.8.0
