@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# --- THIS IS THE MAGIC LINE ---
+# This tells Git to NEVER upload your real secrets file.
+.streamlit/secrets.toml
