@@ -1,8 +1,9 @@
 streamlit
-torch
 transformers
+torch
 sentence-transformers
-huggingface_hub
 faiss-cpu
 praw
 scikit-learn
+pandas
+numpy
