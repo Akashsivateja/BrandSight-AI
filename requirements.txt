@@ -1,6 +1,8 @@
 streamlit
-praw
-sentence-transformers
-transformers
 torch
+transformers
+sentence-transformers
+huggingface_hub
 faiss-cpu
+praw
+scikit-learn
