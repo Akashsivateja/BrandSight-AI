@@ -1,4 +1,6 @@
 # app.py
+import os
+os.environ["TRANSFORMERS_CACHE"] = os.path.expanduser("~/.cache/huggingface")
 
 import streamlit as st
 from reddit_client import search_reddit
